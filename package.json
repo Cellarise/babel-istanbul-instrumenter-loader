@@ -1,10 +1,10 @@
 {
-  "name": "babel-istanbul-instrumenter-loader",
-  "version": "1.0.1",
-  "description": "babel stanbul instrumenter loader",
+  "name": "cellarise-babel-istanbul-instrumenter-loader",
+  "version": "1.0.0",
+  "description": "cellarisebabel istanbul instrumenter loader",
   "main": "index.js",
   "dependencies": {
-    "babel-istanbul": "^0.3.20"
+    "babel-istanbul": "^0.12.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maoziliang/babel-stanbul-instrumenter-loader.git"
+    "url": "git+https://github.com/cellarise/babel-stanbul-instrumenter-loader.git"
   },
   "keywords": [
     "babel",
@@ -21,10 +21,10 @@
     "webpack",
     "webpack-loader"
   ],
-  "author": "maoziliang",
+  "author": "cellarise",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/maoziliang/babel-stanbul-instrumenter-loader/issues"
+    "url": "https://github.com/cellarise/babel-stanbul-instrumenter-loader/issues"
   },
-  "homepage": "https://github.com/maoziliang/babel-stanbul-instrumenter-loader#readme"
+  "homepage": "https://github.com/cellarise/babel-stanbul-instrumenter-loader#readme"
 }
